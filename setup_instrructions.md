@@ -197,7 +197,6 @@ Winner: **DenseNet121**
 ## Support
 
 GitHub: https://github.com/SayedZabiulla/HD-MRI-Diagnosis
-Issues: https://github.com/SayedZabiulla/HD-MRI-Diagnosis/issues
 Email: sayedzabeulla@gmail.com(mailto:sayedzabeulla@gamil.com)
 
 ---
